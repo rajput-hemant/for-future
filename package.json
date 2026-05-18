@@ -47,7 +47,7 @@
     "@typescript-eslint/parser": "^8.8.0",
     "eslint": "8.57.1",
     "eslint-config-next": "15.0.0-rc.1",
-    "eslint-config-prettier": "^9.1.0",
+    "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-react-compiler": "^0.0.0-experimental-9a75bad-20241003",
     "eslint-plugin-tailwindcss": "^3.17.4",
     "husky": "^9.1.6",
